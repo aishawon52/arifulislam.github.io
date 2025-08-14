@@ -18,7 +18,7 @@
 
 ## 🎓 Education
 - **M.Sc. in Mechatronics Engineering** *(Enrolled)* — Rajshahi University of Engineering and Technology, Bangladesh *(Apr 2025)*  
-- **B.Sc. in Mechatronics Engineering** — CGPA: 3.44 / 4.00 *(3.80 in last 100 credits)* — RUET *(Oct 2023)*  
+- **B.Sc. in Mechatronics Engineering** — CGPA: 3.44 / 4.00 *(3.80 in last 100 credits)* — Rajshahi University of Engineering and Technology *(Oct 2023)*  
 
 **Key Courses:** Control Systems, Robotics, AI, Automation, Machine Vision, Machine Learning, Embedded Systems.
 
