@@ -1,3 +1,51 @@
-remote_theme: pages-themes/minimal@v0.2.0
+# _config.yml
+
+# Site settings
+title: "Ariful Islam"
+description: "Mechatronics Engineer | AI & Machine Vision Researcher | Power Plant Professional"
+baseurl: "" # Leave empty for user/organization site
+url: "https://your-username.github.io" # Change to your actual GitHub Pages URL
+
+# Theme settings
+theme: minima # Minimalist default Jekyll theme
+minimal_mistakes_skin: default
+
+# Author details
+author:
+  name: "Ariful Islam"
+  email: "arifulislam.mte17@gmail.com"
+  location: "Naogaon, Bangladesh"
+  linkedin: "http://www.linkedin.com/in/ariful-islam1708038"
+  research_doi: "https://doi.org/10.1016/j.measen.2025.101878"
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Navigation (optional)
+header_pages:
+  - README.md
+
+# Build settings
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social links
+social_links:
+  - name: Email
+    url: "mailto:arifulislam.mte17@gmail.com"
+  - name: LinkedIn
+    url: "http://www.linkedin.com/in/ariful-islam1708038"
+  - name: Research DOI
+    url: "https://doi.org/10.1016/j.measen.2025.101878"
+
+# Exclude files from build
+exclude:
+  - "*.gemspec"
+  - "*.gem"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
